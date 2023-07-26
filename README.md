@@ -1,5 +1,3 @@
-# Speech_Emotion_Recognition
-
 # Kaggle_Dataset_Link
 
 1. https://www.kaggle.com/datasets/ejlok1/cremad
